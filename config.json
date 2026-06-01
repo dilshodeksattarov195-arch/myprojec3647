@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productvalidate",
+        "uuid": 10408538,
+        "checksum": "hltapn"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
